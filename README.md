@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
