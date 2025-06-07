@@ -29,6 +29,5 @@
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </div>
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-S-Min&anuraghazra&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-S-Min&anuraghazra&layout=compact)
+
