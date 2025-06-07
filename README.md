@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <br />
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/Tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
