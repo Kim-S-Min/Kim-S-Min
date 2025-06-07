@@ -32,6 +32,8 @@
 </div>
 <br />
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-S-Min&anuraghazra&layout=pie&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-S-Min&anuraghazra&layout=pie&locale=kr" alt="Top Langs" />
+  </a>
+</p>
