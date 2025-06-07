@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+world;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+world+!!!;Second+line+of+text)](https://git.io/typing-svg)
 
 <h3 align="center">✨ Front end ✨</h3>
 <div align="center">
