@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+world+!!!;Second+line+of+text)](https://git.io/typing-svg)
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
