@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Front end ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"/>
@@ -12,7 +12,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/Tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+<h3 align="center">✨ Game Client ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-#FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=black">
+</div>
+
+<h3 align="center">Other</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  
 </div>
 
 <div align="center">
