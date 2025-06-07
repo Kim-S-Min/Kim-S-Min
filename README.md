@@ -16,9 +16,9 @@
 
 <h3 align="center">✨ Game Client ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-#FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/unity-#FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black"/>
   
-  <img src="https://img.shields.io/badge/-C%23-000000?style=for-the-badge&logo=csharp&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-C%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=black"/>
 </div>
 
 <h3 align="center">Other</h3>
